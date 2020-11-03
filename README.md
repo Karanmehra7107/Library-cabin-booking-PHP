@@ -28,8 +28,7 @@ Create a web page to book a study cabin in a library.
 
 
 ## Deployment
-
-https://library-cabin-booking-php.herokuapp.com/
+Heroku: https://library-cabin-booking-php.herokuapp.com/
 
 
 __Screenshots__
