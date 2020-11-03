@@ -8,7 +8,6 @@
   * [Directory Tree](#directory-tree)
   * [Deployment](#deployment)
   * [Screenshots](#screenshots)
-  * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Team](#team)
