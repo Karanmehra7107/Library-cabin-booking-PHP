@@ -42,22 +42,6 @@ Create a web page to book a study cabin in a library to handle the user input, a
 
 
 
-css
-img
-includes
-nbproject
-README.md
-_config.yml
-footer.php
-header.php
-index.php
-loginsystem.sql
-reservation.php
-schedule.php
-tables.php
-view_reservations.php
-view_tables.php
-
 ## Deployment
 Heroku: https://library-cabin-booking-php.herokuapp.com/
 
