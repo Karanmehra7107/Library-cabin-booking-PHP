@@ -21,23 +21,42 @@ Create a web page to book a study cabin in a library to handle the user input, a
 ## Directory Tree 
 ```
 
-├── Happy New Year 
-│   ├──index.html
-│   └──main.css
-├── Login projectXD 
-│   ├──loginproject.xd
-│   └──screenshot
-├── Social icons
-    ├──1.css
-    ├──2.css
-    ├──3.css
-    ├──Smiling_Devil_Emoji.png
-    ├──index.html
-    ├──login.html
-    └──menu.html
+├── css
+├── img
+├── includes
+├── nbproject
+├── README.md
+├── _config.yml
+├── footer.php
+├── header.php
+├── index.php
+├── loginsystem.sql
+├── reservation.php
+├── schedule.php
+├── tables.php
+├── view_reservations.php
+├── view_tables.php
+
 
 ```
 
+
+
+css
+img
+includes
+nbproject
+README.md
+_config.yml
+footer.php
+header.php
+index.php
+loginsystem.sql
+reservation.php
+schedule.php
+tables.php
+view_reservations.php
+view_tables.php
 
 ## Deployment
 Heroku: https://library-cabin-booking-php.herokuapp.com/
