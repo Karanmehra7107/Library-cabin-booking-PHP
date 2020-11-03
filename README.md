@@ -4,11 +4,12 @@
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
+  * [Directory Tree](#directory-tree)
+  * [Deployment](#deployment)
   * [Screenshots](#screenshots)
   * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [Directory Tree](#directory-tree)
   * [Team](#team)
   * [License](#license)
 
@@ -42,7 +43,7 @@ Create a web page to book a study cabin in a library to handle the user input, a
 Heroku: https://library-cabin-booking-php.herokuapp.com/
 
 
-__Screenshots__
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/62024355/97780425-9a2d9180-1baa-11eb-92cc-9de7cfe0aa07.png)
 ![image](https://user-images.githubusercontent.com/62024355/97780431-a3b6f980-1baa-11eb-9f2f-cbd5e84f5d7d.png)
