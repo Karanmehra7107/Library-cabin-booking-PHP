@@ -1,10 +1,21 @@
 # Library cabin booking 
-![HTML](https://img.shields.io/badge/HTML-brightgreen.svg) ![CSS](https://img.shields.io/badge/Library-CSS-orange.svg) ![PhpMyAdmin](https://img.shields.io/badge/Backend-PhpMyAdmin-blue.svg) ![PHP](https://img.shields.io/badge/Scrypt-PHP-orange.svg) 
+![HTML](https://img.shields.io/badge/HTML-brightgreen.svg) ![CSS](https://img.shields.io/badge/Library-CSS-orange.svg) ![PhpMyAdmin](https://img.shields.io/badge/Backend-PhpMyAdmin-blue.svg) ![PHP](https://img.shields.io/badge/Scrypt-PHP-orange.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
+
+
+## Table of Content
+  * [Problem statment](#Problem-statment)
+  * [Screenshots](#screenshots)
+  * [Demo](#demo)
+  * [Motivation](#motivation)
+  * [Technical Aspect](#technical-aspect)
+  * [Directory Tree](#directory-tree)
+  * [Team](#team)
+  * [License](#license)
+
 
 
 ## Problem Statement
-Create a web page to book a study cabin in a library.
-
+Create a web page to book a study cabin in a library to handle the user input, array handling operations, string handling operations, database operations, CRUD operations, MySql connectivity operations in a web page.         
 
 ## Directory Tree 
 ```
