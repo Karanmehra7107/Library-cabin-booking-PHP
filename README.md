@@ -50,6 +50,15 @@ What could be a perfect way to utilize unfortunate lockdown period with some exc
 
 
 
+## Techinical aspects
+__Back-end:__  Created two table for database namely, Reservation and Users in which I’ve used insret, drop, edit operations using PhpMyAdmin as backend.
+__Fron-end:__  Included three web pages and two popup validation forms namely, Login and Sign-in.  
+__Tools__  It is integrated with bootstrap 3 and css for dynamic preview. Built with love in VScode editor and PhpMyAdmin sql scrypt  
+
+
+
+
+
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/62024355/97780425-9a2d9180-1baa-11eb-92cc-9de7cfe0aa07.png)
