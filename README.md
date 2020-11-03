@@ -2,7 +2,7 @@
 ![HTML](https://img.shields.io/badge/HTML-brightgreen.svg) ![CSS](https://img.shields.io/badge/Library-CSS-orange.svg) ![PhpMyAdmin](https://img.shields.io/badge/Backend-PhpMyAdmin-blue.svg) ![PHP](https://img.shields.io/badge/Scrypt-PHP-orange.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
 
 
- <a href="https://github.com/Karanmehra7107"><img align="left" alt="Karan's LPU" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/lpu.svg" /></a>
+ <a href="https://github.com/Karanmehra7107"><img align="left" alt="Karan's LPU" width="22px" src="https://www.lpu.in/landing-pages/brand/images/logo-dark.png" /></a>
 
 
 ## Table of Content
