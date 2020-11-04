@@ -107,3 +107,33 @@ limitations under the License.
 
 
 
+
+
+
+What could be a perfect way to utilize unfortunate pendamic period? Netflix? 
+Created assignment #PHP #Web_Page to book a study cabin in a library. 
+
+Include: Handle the user input, array handling operations, string handling operations, database operations, #CRUD operations in reg forms, #MySql operations.
+
+Export users and reservations table from db for #data_visualisation 📊
+
+
+ 
+Technical aspects👨‍🔧:
+Back-end🔙📡: Created two table for database namely, Reservation and Users in which I’ve used insret, drop, edit operations using PhpMyAdmin as backend and session for user signin and login.
+
+Fron-end🖼️: Included three web pages and two popup validation forms namely, Login and Sign-in. 
+
+Tools: Integrated with #Bootstrap3 and css for dynamic preview. Built with ♥️ in 🆚code and PhpMyAdmin sql scrypt and deploy in Infinityfree.
+
+Double tap ♥️
+👍 💟 👏 for appreciation
+
+©️
+🌐librarycabinbooking.rf.gd/index.php
+Do hit the ⭐ https://github.com/Karanmehra7107/Library-cabin-booking-PHP
+#lpu 
+#student_of_computer_application 👨‍💻
+
+
+
