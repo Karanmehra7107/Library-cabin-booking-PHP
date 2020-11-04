@@ -43,9 +43,7 @@ Create a web page to book a study cabin in a library to handle the user input, a
 
 
 ## Deployment
-Heroku: https://library-cabin-booking-php.herokuapp.com/
-
-
+http://librarycabinbooking.rf.gd/index.ph
 
 ## Motivation
 What could be a perfect way to utilize unfortunate lockdown period with some exciting assignments by of PHP course faculty Mis Amandeep kaur? Like most of you, I spend my time in cooking, Netflix, coding, Learning and reading some latest research papers on weekends. Reasearching those things i've zero knoladge like PHP, PhpMyAdmin makes my mind to work at turbo mode
