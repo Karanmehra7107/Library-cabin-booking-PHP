@@ -53,13 +53,12 @@ What could be a perfect way to utilize unfortunate lockdown period with some exc
 ## Technical aspect
 
 
-__Back-end:__  Created two table for database namely, Reservation and Users in which I’ve used insret, drop, edit operations using PhpMyAdmin as backend and session for user signin and login.
+__Technical aspects__ 👨‍🔧:
+__Back-end__ 🔙📡: Created two table for database namely, Reservation and Users in which I’ve used insret, drop, edit operations using PhpMyAdmin as backend and session for user signin and login.
 
+__Fron-end__ 🖼️: Included three web pages and two popup validation forms namely, Login and Sign-in. 
 
-__Fron-end:__  Included three web pages and two popup validation forms namely, Login and Sign-in.  
-
-
-__Tools__  It is integrated with bootstrap 3 and css for dynamic preview. Built with love in VScode editor and PhpMyAdmin sql scrypt and deploy in Heroku  
+__Tools__: Integrated with #Bootstrap3 and css for dynamic preview. Built with ♥️ in 🆚code and PhpMyAdmin sql scrypt and deploy in Infinityfree.
 
 
 
